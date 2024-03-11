@@ -9,11 +9,11 @@
     },
     {
       "ParameterKey": "IAMUserOwnerOfResources",
-      "ParameterValue": "test.user"
+      "ParameterValue": "des-user"
     },
     {
       "ParameterKey": "EC2InstanceAmi",
-      "ParameterValue": "ami-0bce08e823ed38bdd"
+      "ParameterValue": "ami-0f403e3180720dd7e"
     },
     {
       "ParameterKey": "EC2InstanceType",
@@ -21,10 +21,10 @@
     },
     {
       "ParameterKey": "EC2KeyName",
-      "ParameterValue": "test-user-key"
+      "ParameterValue": "des-user"
     },
      {
       "ParameterKey": "IAMUserOwnerIp",
-      "ParameterValue": "XX.XXX.XXX.XXX"
+      "ParameterValue": "192.168.100.6"
     }
   ]

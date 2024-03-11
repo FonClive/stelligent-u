@@ -174,8 +174,8 @@ Resources:
         Code: -1
         Type: -1
       PortRange:
-        From:  
-        To:
+        From:  22
+        To: 22
   MyNetworkEntryMySecondSubnetIngressAllHttp:
     Type: AWS::EC2::NetworkAclEntry
     Properties:
@@ -197,8 +197,8 @@ Resources:
       Protocol: -1
       CidrBlock: !Join ['/', ["10.0.0.128", '25' ] ]
       PortRange:
-        From:
-        To:   
+        From: 80
+        To: 80 
   MySecondSubnet:
     Type: AWS::EC2::Subnet
     Properties:
