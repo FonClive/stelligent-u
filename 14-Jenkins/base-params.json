@@ -13,7 +13,7 @@
     },
     {
       "ParameterKey": "EC2InstanceAmi",
-      "ParameterValue": "ami-0f403e3180720dd7e"
+      "ParameterValue": "ami-0fdad9eb469fe4448"
     },
     {
       "ParameterKey": "EC2InstanceType",
